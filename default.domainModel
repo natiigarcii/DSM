@@ -729,6 +729,27 @@
         <styles xmi:type="notation:FilteringStyle" xmi:id="_i8Ylub4cEeeeMokhU9AiDA"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_i8Ylur4cEeeeMokhU9AiDA" type="7004">
+        <children xmi:type="notation:Node" xmi:id="_yX6_QL4fEeeNCcF9LF2Oyg" type="3004" element="_cd6Q8L4dEeeeMokhU9AiDA">
+          <children xmi:type="notation:DecorationNode" xmi:id="_yX6_Rb4fEeeNCcF9LF2Oyg" type="5004"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_yX6_Qb4fEeeNCcF9LF2Oyg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_yX6_Qr4fEeeNCcF9LF2Oyg" fontName="Segoe UI"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_yX6_Q74fEeeNCcF9LF2Oyg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yX6_RL4fEeeNCcF9LF2Oyg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_yX6_Rr4fEeeNCcF9LF2Oyg" type="3004" element="_cd6Q8r4dEeeeMokhU9AiDA">
+          <children xmi:type="notation:DecorationNode" xmi:id="_yX6_S74fEeeNCcF9LF2Oyg" type="5004"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_yX6_R74fEeeNCcF9LF2Oyg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_yX6_SL4fEeeNCcF9LF2Oyg" fontName="Segoe UI"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_yX6_Sb4fEeeNCcF9LF2Oyg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yX6_Sr4fEeeNCcF9LF2Oyg"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_yX6_TL4fEeeNCcF9LF2Oyg" type="3004" element="_cd6Q9b4dEeeeMokhU9AiDA">
+          <children xmi:type="notation:DecorationNode" xmi:id="_yX6_Ub4fEeeNCcF9LF2Oyg" type="5004"/>
+          <styles xmi:type="notation:DescriptionStyle" xmi:id="_yX6_Tb4fEeeNCcF9LF2Oyg"/>
+          <styles xmi:type="notation:FontStyle" xmi:id="_yX6_Tr4fEeeNCcF9LF2Oyg" fontName="Segoe UI"/>
+          <styles xmi:type="notation:FillStyle" xmi:id="_yX6_T74fEeeNCcF9LF2Oyg"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_yX6_UL4fEeeNCcF9LF2Oyg"/>
+        </children>
         <styles xmi:type="notation:SortingStyle" xmi:id="_i8Ylu74cEeeeMokhU9AiDA"/>
         <styles xmi:type="notation:FilteringStyle" xmi:id="_i8YlvL4cEeeeMokhU9AiDA"/>
       </children>
